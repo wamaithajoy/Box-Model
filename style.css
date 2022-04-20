@@ -1,0 +1,28 @@
+.box3{
+    outline: solid rgb(38, 38, 173) 2px;
+    border:solid rgb(218, 241, 10) 10px;
+    padding: 40px;
+    margin: 50px ;
+    width: 20vw;
+    height: 4vh;
+}
+h3{
+    text-align: center;
+}
+.box2{
+    outline: solid rgb(38, 38, 173) 2px;
+    border:solid rgb(8, 8, 8) 10px;
+    padding: 5% ;
+    margin: 10px;
+    width: 42vw;
+    height: 33vh;
+
+}
+.box1{
+    outline: solid rgb(38, 38, 173) 2px;
+    border:solid rgb(10, 230, 238) 10px;
+    padding: 5px;
+    margin: 3% ;
+    width: 50vw; 
+    height: 50vh; 
+}
